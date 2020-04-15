@@ -1,7 +1,7 @@
 # Project Reproducibility
 
 [#mygit](https://github.com/baileyjc/project-reproducibility)
-(/Users/bcarlson/Desktop/git_repo/project-reproducibility/La_COI_hap_net.pdf)
+![](/Users/bcarlson/Desktop/git_repo/project-reproducibility/La_COI_hap_net.pdf)
 
 The goal of this repository is to serve as an example on how to set up any type of data analysis in a reproducible way.
 
