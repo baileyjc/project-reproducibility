@@ -1,5 +1,7 @@
 # Project Reproducibility
 
+[https://github.com/baileyjc/project-reproducibility](#mygit)
+
 The goal of this repository is to serve as an example on how to set up any type of data analysis in a reproducible way.
 
 Developing reproducible analysis should be considered a best practice in the sciences. Unfortunately, it is not yet a very widespread practice.
